@@ -1,0 +1,42 @@
+.contact-box {
+	width: 100%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.main-content.contact {
+	height: 550px;
+	line-height: 1.7;
+}
+
+input {
+	margin-bottom: 10px;
+}
+
+.contact-form {
+	position: relative;
+}
+
+
+.submit {
+	position: absolute;
+	background-color: #4aaaa5;
+	border: none;
+    color: white;
+    padding: 12px 25px;
+    text-align: center;
+    font-size: 24px;
+    margin-top: 10px;
+    box-sizing: border-box;
+}
+
+
+
+.submit:focus {
+	position: absolute;
+	border: 5px solid yellow;
+	left: -5px;
+}
+
+
+

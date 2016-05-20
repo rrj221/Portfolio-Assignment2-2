@@ -1,0 +1,64 @@
+.main-content {
+	/*float: left;
+	margin-left: 10%;
+	margin-bottom: 20px;
+	width: 50%;*/
+	height: 900px;
+	/*padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: white;*/
+}
+
+#portfolio-section {
+	padding-top: 
+}
+
+.portfolio-images {
+	height: 200px;
+	width: 266px;
+	position: absolute; 
+}
+
+#rpg-game, #widget {
+	right: 0px;
+}
+
+
+/*#hangman, #trivia-game, #rock-paper {
+	float: left;
+}*/
+
+/*#rpg-game, #widget {
+	float: right;
+}*/
+
+.block {
+	display: inline-block;
+	position: relative;
+	/*z-index: 0*/
+	width: 49%;
+	height: 200px;
+	/*float: left;*/
+	margin-bottom: 45px;
+}
+
+.block-text {
+	display: inline-block;
+	position: absolute;
+	background-color: #4aaaa5;
+	width: 266px;
+	text-align: center;
+	color: white;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	z-index: 1;
+	bottom: 10px;
+	font-size: 22px;
+}
+
+#rpg-game-text, #widget-text {
+	float: right;
+	right: 0px;
+}

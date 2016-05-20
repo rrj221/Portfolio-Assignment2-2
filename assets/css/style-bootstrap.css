@@ -1,0 +1,91 @@
+body {
+	background-image: url("../images/concrete_seamless.png");
+}
+
+.main-section {
+	background-color: white;
+}
+
+.panel-default {
+	text-align: center;
+}
+
+.form-horizontal .form-group {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.navbar {
+	background-color: white;
+}
+
+.navbar-brand {
+	background-color: #4aaaa5;
+	color: white;
+}
+
+.navbar-default {
+	color: white;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+}
+
+
+
+
+
+/*Portfolio labels ..............*/
+
+.thumbnail {
+	position: relative;
+}
+
+.text {
+	position: absolute;
+	bottom: 30px;
+	width: 100%;
+	padding: 15px;
+	font-size: 25px;
+	background-color: #4aaaa5;
+	text-align: center;
+}
+
+/*.thumbnail {
+	margin-bottom: 0px;
+}*/
+
+
+
+
+/*Sticky Footer ...................*/
+
+
+/*.footer {
+	text-align: center;
+
+	height: 75px;
+	background-color: #4aaaa5;
+	color: white;
+}
+
+.footer-text {
+	padding-top: 25px;
+}*/
+
+/*
+.container {
+min-height: 100%;
+height: auto !important;
+height: 100%;
+margin: 0 auto -75px;
+}
+
+.footer, .push {
+height: 75px;
+clear: both;
+
+}*/
+
+/*margin: auto; I had this in the .footer*/
